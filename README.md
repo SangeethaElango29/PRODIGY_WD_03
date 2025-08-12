@@ -20,6 +20,7 @@ HTML – Structure of the game board
 CSS – Styling and layout
 
 JavaScript – Game logic and interactivity
+
 💡 Future Enhancements
 Single-player mode with AI opponent
 
